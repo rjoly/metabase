@@ -115,7 +115,6 @@ export function PublicOrEmbeddedQuestionView({
             }}
             gridUnit={12}
             showTitle={false}
-            isDashboard
             mode={PublicMode}
             metadata={metadata}
             onChangeCardAndRun={() => {}}
